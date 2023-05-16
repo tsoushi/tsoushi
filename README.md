@@ -1,6 +1,9 @@
 # tsoushi
-[![tsoushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsoushi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoushi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tsoushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsoushi&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoushi&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsoushi&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsoushi&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsoushi&theme=nord_bright)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsoushi)](https://github.com/ryo-ma/github-profile-trophy)
