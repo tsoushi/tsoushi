@@ -1,6 +1,6 @@
 # tsoushi
 [![tsoushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsoushi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoushi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoushi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsoushi)](https://github.com/ryo-ma/github-profile-trophy)
@@ -16,6 +16,9 @@
   - [ProtoPedia](https://protopedia.net/prototype/3537)
   - [GitHub（サーバーサイド）](https://github.com/tsoushi/aizuhack-liot-intercom)
   - [GitHub（RasberryPi）](https://github.com/Yuorei/liot-intercom-iot)
+
+[![server repo](https://github-readme-stats.vercel.app/api/pin/?username=tsoushi&repo=aizuhack-liot-intercom)](https://github.com/anuraghazra/github-readme-stats)
+[![client repo](https://github-readme-stats.vercel.app/api/pin/?username=Yuorei&repo=liot-intercom-iot)](https://github.com/anuraghazra/github-readme-stats)
 
 ## その他作ったもの
 - 強震モニタから緊急地震速報を取得し、LINEやDiscordに通知を送るスクリプト([GitHub](https://github.com/tsoushi/KmoniEEWNotifier))
