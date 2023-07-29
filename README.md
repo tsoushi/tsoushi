@@ -25,7 +25,7 @@
 
 ## その他作ったもの
 - ~~強震モニタから緊急地震速報を取得し、LINEやDiscordに通知を送るスクリプト([GitHub](https://github.com/tsoushi/KmoniEEWNotifier))~~ 強震モニタの利用規約の変更に伴い非公開
-- 気象庁が配信するXML電文をもとに、LINEやDiscordに通知を送るスクリプト([GitHub](強震モニタから緊急地震速報を取得し、LINEやDiscordに通知を送るスクリプト))
+- 気象庁が配信するXML電文をもとに、LINEやDiscordに通知を送るスクリプト([GitHub](https://github.com/tsoushi/JMA_XML_Listener))
 - リアルタイム入力でTJA譜面を作成できるCUIツール([GitHub](https://github.com/tsoushi/SimpleRealtimeTJAEditor))
 - Python Tkinterで作った日記記録GUIアプリ([GitHub](https://github.com/tsoushi/PyNikki))
 - マルコフ連鎖で文を自動生成するCUIツール([GitHub](https://github.com/tsoushi/PyNikki))
